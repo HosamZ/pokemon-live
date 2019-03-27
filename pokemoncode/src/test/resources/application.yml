@@ -1,0 +1,18 @@
+pokemon:
+  file: classpath:pokemon.csv
+
+dataset:
+  pokemons:
+    - name: Omar
+      type: Water
+      subtype: Awesomer
+    - name: Tamara
+      type: Fire
+      subtype: EvenMoreAwesomer
+    - name: L
+      type: Humus
+      subtype: Zater
+  pokemon:
+    name: Omar
+    type: Water
+    subtype: Awesomer
